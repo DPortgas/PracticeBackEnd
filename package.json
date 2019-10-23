@@ -1,7 +1,7 @@
 {
   "name": "dportgas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este proyecto esta hecho para mi curso de desarrollo web en Inviertete. Estoy aprendiendo a usar Github para gestionar mis proyectos.  Aquí estarán las practicas que se han hecho y se harán posteriormente.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPortgas/PracticeBackEnd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DPortgas/PracticeBackEnd/issues"
+  },
+  "homepage": "https://github.com/DPortgas/PracticeBackEnd#readme"
 }
